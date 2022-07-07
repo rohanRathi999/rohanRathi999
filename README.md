@@ -24,7 +24,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-Rohanrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rohan-rathi-a19764205/)](https://www.linkedin.com/in/rohan-rathi-a19764205/)
 [![Instagram Badge](https://img.shields.io/badge/-Rohan-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/rohan___rathi/)](https://www.instagram.com/rohan___rathi/)
-[![Gmail Badge](https://img.shields.io/badge/-rohan.2125csme1020@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
+[![Gmail Badge](https://img.shields.io/badge/-rohan.2125csme1020@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohan.2125csme1020@kiet.edu)](mailto:rohan.2125csme1020@kiet.edu)
 
 
 
