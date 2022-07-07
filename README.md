@@ -13,16 +13,15 @@
 ## ⚡ Technologies
 
 ### Language :
-![c#](https://img.shields.io/badge/-c-hash#-black?style=flat-square&logo=c#)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
 
 
 
-## 📫 Connect with me here:
+ 📫 Connect with me here:
  
-[![Linkedin Badge](https://img.shields.io/badge/-Rohanrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/devanshu-saxena01/)](https://www.linkedin.com/in/devanshu-saxena01/)
-[![Instagram Badge](https://img.shields.io/badge/-Rohan-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/devanshu0_1/)](https://www.instagram.com/devanshu0_1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rohanrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rohan-rathi-a19764205/)](https://www.linkedin.com/in/rohan-rathi-a19764205/)
+[![Instagram Badge](https://img.shields.io/badge/-Rohan-purple?style=flat-square&logo=instagram&logoColor=white&link=https:https://www.instagram.com/rohan___rathi/)](https://www.instagram.com/rohan___rathi/)
 [![Gmail Badge](https://img.shields.io/badge/-rohan.2125csme1020@kiet.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
 
 
