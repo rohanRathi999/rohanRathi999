@@ -15,6 +15,8 @@
 ### Language :
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
+![dart](https://img.shields.io/badge/-dart-007ACC?style=flat-square&logo=Dart)
+![flutter](https://img.shields.io/badge/-flutter-007ACC?style=flat-square&logo=flutter)
 
 
 
