@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohanRathi999
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi, I’m @rohanRathi999
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Hackerrank
