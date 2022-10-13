@@ -8,7 +8,7 @@
 
 - 💬 Don't ask me about **flutter,JAVA** 😂
 
-- 📫 Reach me at **potterlily871@gmail.com**
+- 📫 Reach me at **rohanrathi2407@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
