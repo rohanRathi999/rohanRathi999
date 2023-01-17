@@ -8,7 +8,7 @@
 
 - 💬 Also interested in **flutter,JAVA** 😂
 
-- 📫 Mail me at **rohanrathi2407@gmail.com**
+- 📫 e-Mail me at **rohanrathi2407@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😭😂**
 
