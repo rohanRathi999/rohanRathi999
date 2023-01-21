@@ -26,8 +26,8 @@
 <h2>📈 Stats : </h2>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohanRathi999&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanRathi999&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rohanRathi999&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanRathi999&theme=tokyonight" />
   
 </p> 
 
