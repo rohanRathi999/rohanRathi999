@@ -6,7 +6,7 @@
 
 - 🌱 I currently learning **Javascript, C++**
 
-- 💬 Also interested in **flutter,JAVA** 😂
+- 💬 Also interested in **Flutter,JAVA** 😂
 
 - 📫 e-mail me at **rohanrathi2407@gmail.com**
 
