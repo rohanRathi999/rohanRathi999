@@ -4,13 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I currently learning **Javascript, C++**
+- 🌱 I am currently learning **Javascript, C++**
 
-- 💬 Also interested in **Flutter,JAVA** 😂
+- 💬 Also interested in **Flutter,JAVA** 
 
 - 📫 e-mail me at **rohanrathi2407@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😭**
 
 <h3 align="left">Connect with me : ) </h3>
 <p align="left">
