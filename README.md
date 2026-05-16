@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 Current Workfield **Javascript, C++** 
+- 🌱 Current Workfield **Javascript, Python** 
 - 📫 e-mail me at **rohanrathi2407@gmail.com**
 
 
